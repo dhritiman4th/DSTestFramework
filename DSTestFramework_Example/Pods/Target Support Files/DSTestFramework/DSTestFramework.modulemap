@@ -1,0 +1,6 @@
+framework module DSTestFramework {
+  umbrella header "DSTestFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

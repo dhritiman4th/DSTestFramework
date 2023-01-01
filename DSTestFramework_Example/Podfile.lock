@@ -1,0 +1,16 @@
+PODS:
+  - DSTestFramework (1.0.0)
+
+DEPENDENCIES:
+  - DSTestFramework (from `../DSTestFramework/`)
+
+EXTERNAL SOURCES:
+  DSTestFramework:
+    :path: "../DSTestFramework/"
+
+SPEC CHECKSUMS:
+  DSTestFramework: 5e8f2876ca9b767c31c7874af548eb7d41f2b7fb
+
+PODFILE CHECKSUM: d5d13de085e065193a02cb83fc0ad7e23f44acd8
+
+COCOAPODS: 1.11.3

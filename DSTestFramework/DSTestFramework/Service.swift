@@ -10,7 +10,7 @@ import Foundation
 public class Service {
     private init() {}
     
-    public static func doSomething() {
-        print("Hey bro!!!......I am being displayed from your Framework buddy")
+    public static func doSomething() -> String {
+        return "Hey bro!!!......I am being displayed from your Framework buddy"
     }
 }
